@@ -1,4 +1,4 @@
-# Covid-19-Analysis and Prediction
+# Real-Time COVID-19 Analysis and Predictions using Python and PowerBI
 # Project Description
 This project aims to analyze and predict the spread of the COVID-19 pandemic using real-time data. With the outbreak of the COVID-19 virus globally, there has been a significant demand for understanding its patterns, impact, and potential future trends. By employing data analysis techniques and predictive modeling, this project seeks to provide insights into the progression of the pandemic and assist in decision-making processes for healthcare authorities, policymakers, and the general public.
 
