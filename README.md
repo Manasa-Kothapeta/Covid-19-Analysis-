@@ -16,4 +16,4 @@ Implements predictive models to forecast future trends in COVID-19 cases based o
 # Evaluation and Validation: 
 Assesses model performance through rigorous evaluation metrics and validation techniques to ensure the reliability and accuracy of predictions.
 # Visualization and Reporting: 
-Presents analysis results, insights, and predictions through interactive visualizations, dashboards, and reports for easy interpretation and dissemination.
+Presents analysis results, insights, and predictions through interactive visualizations, dashboards, and reports for easy interpretation and dissemination using PowerBI.
